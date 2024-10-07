@@ -30,7 +30,7 @@ Feel Free to Download them and look the Example.
 # Here a view Example Theme ScreenShots 4 Ya
 
 ![Theme_win7](Example_Screenshots/Theme_win7.png)
-![Theme_extreme](Example_Screenshots/Theme_extreme.png)
+![Theme_extreme](Example_Screenshots/Theme_extrme.png)
 
 # Here a view Example Build ScreenShots 4 Ya
 

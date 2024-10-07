@@ -38,14 +38,6 @@ Feel Free to Download them and look the Example.
 ![Example_2](Example_Screenshots/Example_2.png)
 ![Example_3](Example_Screenshots/Example_3.png)
 
-<img src="Example_1.png" width="1024"/>
-<img src="Example_1.png" width="1920"/>
-<img src="Example_1.png" width="800"/>
-
-
-
-
-
 # Here the Original Readme from Developers
 ````
 !!! *** Existing users only *** !!! 
